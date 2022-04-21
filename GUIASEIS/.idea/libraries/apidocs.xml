@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apidocs">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/libraries/commons-text-1.9/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
